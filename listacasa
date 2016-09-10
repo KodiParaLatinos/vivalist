@@ -10,12 +10,16 @@ http://iptvprivado.sytes.net:8001/1:0:1:CF9:3:A2:BCC0000:0:0:0:
 #EXTINF:-1,AMC
 http://iptvprivado.sytes.net:8001/1:0:1:9:2:A2:BCC0000:0:0:0:
 #EXTINF:-1,Animal Planet
+#EXTGRP:unsorted
 http://iptvprivado.sytes.net:8001/1:0:1:51A:D:A2:BCC0000:0:0:0:
 #EXTINF:-1,Antena 3
+#EXTGRP:unsorted
 http://iptvprivado.sytes.net:8001/1:0:1:51E:D:A2:BCC0000:0:0:0:
 #EXTINF:-1,AXN
+#EXTGRP:unsorted
 http://iptvprivado.sytes.net:8001/1:0:1:53:5:A2:BCC0000:0:0:0:
 #EXTINF:-1,Azteca 13
+#EXTGRP:unsorted
 http://iptvprivado.sytes.net:8001/1:0:1:8:1:A2:BCC0000:0:0:0:
 #EXTINF:-1,Azteca 13 -1h
 http://iptvprivado.sytes.net:8001/1:0:1:13:3:A2:BCC0000:0:0:0:
