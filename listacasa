@@ -1,7 +1,420 @@
 #EXTM3U
-#EXTINF:0,001 SKY ONE
-#EXTGRP:unsorted
-http://iptvprivado.sytes.net:8001/1:0:1:4A:1:A2:FDBC0000:0:0:0:
+
+#EXTM3U 
+
+#EXTINF:-1,5-Telemicro
+http://iptvprivado.sytes.net:8001/1:0:1:5D:7:A2:BCC0000:0:0:0:
+#EXTINF:-1,A&E
+http://iptvprivado.sytes.net:8001/1:0:1:1B9:8:A2:BCC0000:0:0:0:
+#EXTINF:-1,Adultos
+http://iptvprivado.sytes.net:8001/1:0:1:CF9:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,AMC
+http://iptvprivado.sytes.net:8001/1:0:1:9:2:A2:BCC0000:0:0:0:
+#EXTINF:-1,Animal Planet
+http://iptvprivado.sytes.net:8001/1:0:1:51A:D:A2:BCC0000:0:0:0:
+#EXTINF:-1,Antena 3
+http://iptvprivado.sytes.net:8001/1:0:1:51E:D:A2:BCC0000:0:0:0:
+#EXTINF:-1,AXN
+http://iptvprivado.sytes.net:8001/1:0:1:53:5:A2:BCC0000:0:0:0:
+#EXTINF:-1,Azteca 13
+http://iptvprivado.sytes.net:8001/1:0:1:8:1:A2:BCC0000:0:0:0:
+#EXTINF:-1,Azteca 13 -1h
+http://iptvprivado.sytes.net:8001/1:0:1:13:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,Azteca 13 -2
+http://iptvprivado.sytes.net:8001/1:0:1:12:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,Azteca 7
+http://iptvprivado.sytes.net:8001/1:0:1:19:A:A2:BCC0000:0:0:0:
+#EXTINF:-1,Baby TV
+http://iptvprivado.sytes.net:8001/1:0:1:13F:5:A2:BCC0000:0:0:0:
+#EXTINF:-1,BBC Entertainment
+http://iptvprivado.sytes.net:8001/1:0:1:330:9:A2:BCC0000:0:0:0:
+#EXTINF:-1,Boomerang
+http://iptvprivado.sytes.net:8001/1:0:1:522:D:A2:BCC0000:0:0:0:
+#EXTINF:-1,Boomerang iTV
+http://iptvprivado.sytes.net:8001/1:0:1:196D:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,Canal 11
+http://iptvprivado.sytes.net:8001/1:0:1:C2D:6:A2:BCC0000:0:0:0:
+#EXTINF:-1,Canal 12
+http://iptvprivado.sytes.net:8001/1:0:1:5C:6:A2:BCC0000:0:0:0:
+#EXTINF:-1,Canal 13 Telemetro
+http://iptvprivado.sytes.net:8001/1:0:1:51C:D:A2:BCC0000:0:0:0:
+#EXTINF:-1,Canal 168
+http://iptvprivado.sytes.net:8001/1:0:1:146:6:A2:BCC0000:0:0:0:
+#EXTINF:-1,Canal 3
+http://iptvprivado.sytes.net:8001/1:0:1:5A:A:A2:BCC0000:0:0:0:
+#EXTINF:-1,Canal 4
+http://iptvprivado.sytes.net:8001/1:0:1:152:A:A2:BCC0000:0:0:0:
+#EXTINF:-1,Canal 4 RPC TV
+http://iptvprivado.sytes.net:8001/1:0:1:BE7:2:A2:BCC0000:0:0:0:
+#EXTINF:-1,Canal 5
+http://iptvprivado.sytes.net:8001/1:0:1:15F:1:A2:BCC0000:0:0:0:
+#EXTINF:-1,Canal 971
+http://iptvprivado.sytes.net:8001/1:0:1:2C9:8:A2:BCC0000:0:0:0:
+#EXTINF:-1,Canal Aniversario
+http://iptvprivado.sytes.net:8001/1:0:1:44:9:A2:BCC0000:0:0:0:
+#EXTINF:-1,Canal Fox
+http://iptvprivado.sytes.net:8001/1:0:1:328:1:A2:BCC0000:0:0:0:
+#EXTINF:-1,Canal Interactivo
+http://iptvprivado.sytes.net:8001/1:0:1:CFA:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,Canal Judicial
+http://iptvprivado.sytes.net:8001/1:0:1:150:7:A2:BCC0000:0:0:0:
+#EXTINF:-1,CBeebies
+http://iptvprivado.sytes.net:8001/1:0:1:E:2:A2:BCC0000:0:0:0:
+#EXTINF:-1,CDN
+http://iptvprivado.sytes.net:8001/1:0:1:162:6:A2:BCC0000:0:0:0:
+#EXTINF:-1,CDNSPORTSMAX
+http://iptvprivado.sytes.net:8001/1:0:1:375:9:A2:BCC0000:0:0:0:
+#EXTINF:-1,CH 884
+http://iptvprivado.sytes.net:8001/1:0:1:1C:A:A2:BCC0000:0:0:0:
+#EXTINF:-1,CH 894
+http://iptvprivado.sytes.net:8001/1:0:1:1B:A:A2:BCC0000:0:0:0:
+#EXTINF:-1,Cinecanal
+http://iptvprivado.sytes.net:8001/1:0:1:157:7:A2:BCC0000:0:0:0:
+#EXTINF:-1,Cinema 1
+http://iptvprivado.sytes.net:8001/1:0:1:CF3:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,Cinema 2
+http://iptvprivado.sytes.net:8001/1:0:1:CF4:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,Cinemax Oeste
+http://iptvprivado.sytes.net:8001/1:0:1:167:8:A2:BCC0000:0:0:0:
+#EXTINF:-1,CJ Grand Shopping
+http://iptvprivado.sytes.net:8001/1:0:1:135:6:A2:BCC0000:0:0:0:
+#EXTINF:-1,Clima Interactive
+http://iptvprivado.sytes.net:8001/1:0:1:D5:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,CNBC
+http://iptvprivado.sytes.net:8001/1:0:1:148:6:A2:BCC0000:0:0:0:
+#EXTINF:-1,CNN en Espanol
+http://iptvprivado.sytes.net:8001/1:0:1:161:6:A2:BCC0000:0:0:0:
+#EXTINF:-1,CNN Internacional
+http://iptvprivado.sytes.net:8001/1:0:1:332:9:A2:BCC0000:0:0:0:
+#EXTINF:-1,COLOR VISION
+http://iptvprivado.sytes.net:8001/1:0:1:333:9:A2:BCC0000:0:0:0:
+#EXTINF:-1,Comedy Central
+http://iptvprivado.sytes.net:8001/1:0:1:57:7:A2:BCC0000:0:0:0:
+#EXTINF:-1,Congreso
+http://iptvprivado.sytes.net:8001/1:0:1:5:A:A2:BCC0000:0:0:0:
+#EXTINF:-1,Contingencia
+http://iptvprivado.sytes.net:8001/1:0:1:C16:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,De Pelicula
+http://iptvprivado.sytes.net:8001/1:0:1:4:1:A2:BCC0000:0:0:0:
+#EXTINF:-1,De Pelicula M
+http://iptvprivado.sytes.net:8001/1:0:1:41:9:A2:BCC0000:0:0:0:
+#EXTINF:-1,Deutsche Welle
+http://iptvprivado.sytes.net:8001/1:0:1:16:8:A2:BCC0000:0:0:0:
+#EXTINF:-1,Discovery Channel
+http://iptvprivado.sytes.net:8001/1:0:1:4D:A:A2:BCC0000:0:0:0:
+#EXTINF:-1,Discovery H & H
+http://iptvprivado.sytes.net:8001/1:0:1:6:1:A2:BCC0000:0:0:0:
+#EXTINF:-1,Discovery Kids
+http://iptvprivado.sytes.net:8001/1:0:1:59:2:A2:BCC0000:0:0:0:
+#EXTINF:-1,Disney Channel
+http://iptvprivado.sytes.net:8001/1:0:1:4E:A:A2:BCC0000:0:0:0:
+#EXTINF:-1,Disney Junior
+http://iptvprivado.sytes.net:8001/1:0:1:323:2:A2:BCC0000:0:0:0:
+#EXTINF:-1,Disney XD
+http://iptvprivado.sytes.net:8001/1:0:1:55:1:A2:BCC0000:0:0:0:
+#EXTINF:-1,Distrito Comedia
+http://iptvprivado.sytes.net:8001/1:0:1:32A:1:A2:BCC0000:0:0:0:
+#EXTINF:-1,El Financiero B
+http://iptvprivado.sytes.net:8001/1:0:1:2EC:2:A2:BCC0000:0:0:0:
+#EXTINF:-1,Elgourmet
+http://iptvprivado.sytes.net:8001/1:0:1:45:9:A2:BCC0000:0:0:0:
+#EXTINF:-1,Enlace
+http://iptvprivado.sytes.net:8001/1:0:1:2BF:A:A2:BCC0000:0:0:0:
+#EXTINF:-1,Entretenimiento 1
+http://iptvprivado.sytes.net:8001/1:0:1:CF0:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,Entretenimiento 2
+http://iptvprivado.sytes.net:8001/1:0:1:CF1:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,ESPN
+http://iptvprivado.sytes.net:8001/1:0:1:329:1:A2:BCC0000:0:0:0:
+#EXTINF:-1,ESPN 2
+http://iptvprivado.sytes.net:8001/1:0:1:49:A:A2:BCC0000:0:0:0:
+#EXTINF:-1,Estrellas Lat
+http://iptvprivado.sytes.net:8001/1:0:1:15:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,Eurochannel
+http://iptvprivado.sytes.net:8001/1:0:1:1BE:5:A2:BCC0000:0:0:0:
+#EXTINF:-1,Europa Europa
+http://iptvprivado.sytes.net:8001/1:0:1:524:D:A2:BCC0000:0:0:0:
+#EXTINF:-1,EV 09
+http://iptvprivado.sytes.net:8001/1:0:1:12C:2:A2:BCC0000:0:0:0:
+#EXTINF:-1,Eventos HD
+http://iptvprivado.sytes.net:8001/1:0:1:D6:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,Excelsior TV
+http://iptvprivado.sytes.net:8001/1:0:1:5B:5:A2:BCC0000:0:0:0:
+#EXTINF:-1,F1LA
+http://iptvprivado.sytes.net:8001/1:0:1:BDF:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,Film & Arts
+http://iptvprivado.sytes.net:8001/1:0:1:2CB:6:A2:BCC0000:0:0:0:
+#EXTINF:-1,Film Zone
+http://iptvprivado.sytes.net:8001/1:0:1:21:5:A2:BCC0000:0:0:0:
+#EXTINF:-1,Foro TV
+http://iptvprivado.sytes.net:8001/1:0:1:56:A:A2:BCC0000:0:0:0:
+#EXTINF:-1,FOX Action Este
+http://iptvprivado.sytes.net:8001/1:0:1:155:7:A2:BCC0000:0:0:0:
+#EXTINF:-1,FOX Cinema
+http://iptvprivado.sytes.net:8001/1:0:1:516:D:A2:BCC0000:0:0:0:
+#EXTINF:-1,FOX Classics
+http://iptvprivado.sytes.net:8001/1:0:1:14D:8:A2:BCC0000:0:0:0:
+#EXTINF:-1,FOX Comedy
+http://iptvprivado.sytes.net:8001/1:0:1:17:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,FOX Family
+http://iptvprivado.sytes.net:8001/1:0:1:F:2:A2:BCC0000:0:0:0:
+#EXTINF:-1,FOX Movies
+http://iptvprivado.sytes.net:8001/1:0:1:156:7:A2:BCC0000:0:0:0:
+#EXTINF:-1,Fox News
+http://iptvprivado.sytes.net:8001/1:0:1:130:7:A2:BCC0000:0:0:0:
+#EXTINF:-1,FOX NEWS
+http://iptvprivado.sytes.net:8001/1:0:1:BE6:7:A2:BCC0000:0:0:0:
+#EXTINF:-1,Fox Sports
+http://iptvprivado.sytes.net:8001/1:0:1:4F:A:A2:BCC0000:0:0:0:
+#EXTINF:-1,FOX Sports 2
+http://iptvprivado.sytes.net:8001/1:0:1:C:2:A2:BCC0000:0:0:0:
+#EXTINF:-1,FOX Sports 3
+http://iptvprivado.sytes.net:8001/1:0:1:136:7:A2:BCC0000:0:0:0:
+#EXTINF:-1,FOX1 Este
+http://iptvprivado.sytes.net:8001/1:0:1:6E:B:A2:BCC0000:0:0:0:
+#EXTINF:-1,FOX1 Oeste
+http://iptvprivado.sytes.net:8001/1:0:1:14C:8:A2:BCC0000:0:0:0:
+#EXTINF:-1,FX
+http://iptvprivado.sytes.net:8001/1:0:1:14E:7:A2:BCC0000:0:0:0:
+#EXTINF:-1,gala TV
+http://iptvprivado.sytes.net:8001/1:0:1:3:1:A2:BCC0000:0:0:0:
+#EXTINF:-1,Galicia TV
+http://iptvprivado.sytes.net:8001/1:0:1:14:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,glitz
+http://iptvprivado.sytes.net:8001/1:0:1:51D:D:A2:BCC0000:0:0:0:
+#EXTINF:-1,Golden MPLX
+http://iptvprivado.sytes.net:8001/1:0:1:51:9:A2:BCC0000:0:0:0:
+#EXTINF:-1,Golden Premiere 1
+http://iptvprivado.sytes.net:8001/1:0:1:1C1:6:A2:BCC0000:0:0:0:
+#EXTINF:-1,Golf Channel
+http://iptvprivado.sytes.net:8001/1:0:1:19E:6:A2:BCC0000:0:0:0:
+#EXTINF:-1,Guatevision
+http://iptvprivado.sytes.net:8001/1:0:1:BE8:2:A2:BCC0000:0:0:0:
+#EXTINF:-1,H2
+http://iptvprivado.sytes.net:8001/1:0:1:54:5:A2:BCC0000:0:0:0:
+#EXTINF:-1,HBO 2
+http://iptvprivado.sytes.net:8001/1:0:1:27:5:A2:BCC0000:0:0:0:
+#EXTINF:-1,HBO Family Este
+http://iptvprivado.sytes.net:8001/1:0:1:1C4:5:A2:BCC0000:0:0:0:
+#EXTINF:-1,HBO Oeste
+http://iptvprivado.sytes.net:8001/1:0:1:164:5:A2:BCC0000:0:0:0:
+#EXTINF:-1,HBO Plus
+http://iptvprivado.sytes.net:8001/1:0:1:26:5:A2:BCC0000:0:0:0:
+#EXTINF:-1,HBO Plus Oeste
+http://iptvprivado.sytes.net:8001/1:0:1:70:B:A2:BCC0000:0:0:0:
+#EXTINF:-1,HBO Signature
+http://iptvprivado.sytes.net:8001/1:0:1:1C5:5:A2:BCC0000:0:0:0:
+#EXTINF:-1,History Channel
+http://iptvprivado.sytes.net:8001/1:0:1:1B8:8:A2:BCC0000:0:0:0:
+#EXTINF:-1,ID
+http://iptvprivado.sytes.net:8001/1:0:1:1C0:6:A2:BCC0000:0:0:0:
+#EXTINF:-1,Ingenio Tv
+http://iptvprivado.sytes.net:8001/1:0:1:7:1:A2:BCC0000:0:0:0:
+#EXTINF:-1,iTV
+http://iptvprivado.sytes.net:8001/1:0:1:1969:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,iTV
+http://iptvprivado.sytes.net:8001/1:0:1:196C:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,ITV SK
+http://iptvprivado.sytes.net:8001/1:0:1:1008:6:A2:BCC0000:0:0:0:
+#EXTINF:-1,iTV SKY INT
+http://iptvprivado.sytes.net:8001/1:0:1:198A:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,ITV SKY INT
+http://iptvprivado.sytes.net:8001/1:0:1:198B:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,iTV SKY INT
+http://iptvprivado.sytes.net:8001/1:0:1:198E:A:A2:BCC0000:0:0:0:
+#EXTINF:-1,iTV SKY INT -3323 - 3323
+http://iptvprivado.sytes.net:8001/1:0:1:CFB:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,Juicy
+http://iptvprivado.sytes.net:8001/1:0:1:71:C:A2:BCC0000:0:0:0:
+#EXTINF:-1,Las Estrellas
+http://iptvprivado.sytes.net:8001/1:0:1:50:A:A2:BCC0000:0:0:0:
+#EXTINF:-1,Las Estrellas -1h
+http://iptvprivado.sytes.net:8001/1:0:1:2EA:9:A2:BCC0000:0:0:0:
+#EXTINF:-1,Las Estrellas -2h
+http://iptvprivado.sytes.net:8001/1:0:1:523:D:A2:BCC0000:0:0:0:
+#EXTINF:-1,Local View 2
+http://iptvprivado.sytes.net:8001/1:0:1:2E6:A:A2:BCC0000:0:0:0:
+#EXTINF:-1,Local View 3
+http://iptvprivado.sytes.net:8001/1:0:1:327:1:A2:BCC0000:0:0:0:
+#EXTINF:-1,Manhandle
+http://iptvprivado.sytes.net:8001/1:0:1:D3:C:A2:BCC0000:0:0:0:
+#EXTINF:-1,Maria Vision
+http://iptvprivado.sytes.net:8001/1:0:1:32:7:A2:BCC0000:0:0:0:
+#EXTINF:-1,Mas Chic
+http://iptvprivado.sytes.net:8001/1:0:1:51B:D:A2:BCC0000:0:0:0:
+#EXTINF:-1,Max este
+http://iptvprivado.sytes.net:8001/1:0:1:166:8:A2:BCC0000:0:0:0:
+#EXTINF:-1,MAX Prime Este
+http://iptvprivado.sytes.net:8001/1:0:1:CF:C:A2:BCC0000:0:0:0:
+#EXTINF:-1,MAX Prime Oeste
+http://iptvprivado.sytes.net:8001/1:0:1:1C2:5:A2:BCC0000:0:0:0:
+#EXTINF:-1,MFOX
+http://iptvprivado.sytes.net:8001/1:0:1:58:5:A2:BCC0000:0:0:0:
+#EXTINF:-1,Modem
+http://iptvprivado.sytes.net:8001/1:0:1:1F:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,MOS F1LA
+http://iptvprivado.sytes.net:8001/1:0:1:52:2:A2:BCC0000:0:0:0:
+#EXTINF:-1,Mos. E. Qualifiers
+http://iptvprivado.sytes.net:8001/1:0:1:1BC:6:A2:BCC0000:0:0:0:
+#EXTINF:-1,Mosaico Futbol
+http://iptvprivado.sytes.net:8001/1:0:1:1984:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,Mosaico HD 1
+http://iptvprivado.sytes.net:8001/1:0:1:396:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,Mosaico HD 2
+http://iptvprivado.sytes.net:8001/1:0:1:370:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,MTV
+http://iptvprivado.sytes.net:8001/1:0:1:22:5:A2:BCC0000:0:0:0:
+#EXTINF:-1,Mundo y Cultura
+http://iptvprivado.sytes.net:8001/1:0:1:CF2:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,Musica y Audio
+http://iptvprivado.sytes.net:8001/1:0:1:CF6:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,NFL Network
+http://iptvprivado.sytes.net:8001/1:0:1:1C8:7:A2:BCC0000:0:0:0:
+#EXTINF:-1,NHK
+http://iptvprivado.sytes.net:8001/1:0:1:D0:C:A2:BCC0000:0:0:0:
+#EXTINF:-1,Nickelodeon
+http://iptvprivado.sytes.net:8001/1:0:1:1C3:7:A2:BCC0000:0:0:0:
+#EXTINF:-1,Noticias
+http://iptvprivado.sytes.net:8001/1:0:1:CF5:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,NTN24
+http://iptvprivado.sytes.net:8001/1:0:1:140:6:A2:BCC0000:0:0:0:
+#EXTINF:-1,Paramount
+http://iptvprivado.sytes.net:8001/1:0:1:1C7:7:A2:BCC0000:0:0:0:
+#EXTINF:-1,Portal Interactive
+http://iptvprivado.sytes.net:8001/1:0:1:1965:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,RAI
+http://iptvprivado.sytes.net:8001/1:0:1:151:8:A2:BCC0000:0:0:0:
+#EXTINF:-1,Real
+http://iptvprivado.sytes.net:8001/1:0:1:D2:C:A2:BCC0000:0:0:0:
+#EXTINF:-1,Repretel
+http://iptvprivado.sytes.net:8001/1:0:1:2CC:9:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY HD 1
+http://iptvprivado.sytes.net:8001/1:0:1:CF7:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY HD 2
+http://iptvprivado.sytes.net:8001/1:0:1:CF8:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Lights
+http://iptvprivado.sytes.net:8001/1:0:1:D4:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY ONE
+http://iptvprivado.sytes.net:8001/1:0:1:4A:1:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Premiere 1
+http://iptvprivado.sytes.net:8001/1:0:1:64:B:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Premiere 10
+http://iptvprivado.sytes.net:8001/1:0:1:C9:C:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Premiere 11
+http://iptvprivado.sytes.net:8001/1:0:1:CA:C:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Premiere 12
+http://iptvprivado.sytes.net:8001/1:0:1:CB:C:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Premiere 13
+http://iptvprivado.sytes.net:8001/1:0:1:CC:C:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Premiere 14
+http://iptvprivado.sytes.net:8001/1:0:1:CD:C:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Premiere 15
+http://iptvprivado.sytes.net:8001/1:0:1:CE:C:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Premiere 2
+http://iptvprivado.sytes.net:8001/1:0:1:65:B:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Premiere 3
+http://iptvprivado.sytes.net:8001/1:0:1:66:B:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Premiere 4
+http://iptvprivado.sytes.net:8001/1:0:1:67:B:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Premiere 5
+http://iptvprivado.sytes.net:8001/1:0:1:68:B:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Premiere 6
+http://iptvprivado.sytes.net:8001/1:0:1:69:B:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Premiere 7
+http://iptvprivado.sytes.net:8001/1:0:1:6A:B:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Premiere 8
+http://iptvprivado.sytes.net:8001/1:0:1:6B:B:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Premiere 9
+http://iptvprivado.sytes.net:8001/1:0:1:C8:C:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Sports
+http://iptvprivado.sytes.net:8001/1:0:1:376:9:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Sports 16
+http://iptvprivado.sytes.net:8001/1:0:1:519:D:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Sports 22
+http://iptvprivado.sytes.net:8001/1:0:1:377:9:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Sports 24
+http://iptvprivado.sytes.net:8001/1:0:1:1BF:6:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Sports 34
+http://iptvprivado.sytes.net:8001/1:0:1:158:6:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Sports 35
+http://iptvprivado.sytes.net:8001/1:0:1:48:9:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Sports 35
+http://iptvprivado.sytes.net:8001/1:0:19:1A34:43:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Sports 37
+http://iptvprivado.sytes.net:8001/1:0:1:46:9:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Sports 38
+http://iptvprivado.sytes.net:8001/1:0:1:B:2:A2:BCC0000:0:0:0:
+#EXTINF:-1,SKY Sports Int
+http://iptvprivado.sytes.net:8001/1:0:1:1968:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,SPACE
+http://iptvprivado.sytes.net:8001/1:0:1:169:8:A2:BCC0000:0:0:0:
+#EXTINF:-1,Special Weekends
+http://iptvprivado.sytes.net:8001/1:0:1:153:6:A2:BCC0000:0:0:0:
+#EXTINF:-1,Studio Universal
+http://iptvprivado.sytes.net:8001/1:0:1:139:8:A2:BCC0000:0:0:0:
+#EXTINF:-1,Sundance
+http://iptvprivado.sytes.net:8001/1:0:1:324:2:A2:BCC0000:0:0:0:
+#EXTINF:-1,SYFY
+http://iptvprivado.sytes.net:8001/1:0:1:34:7:A2:BCC0000:0:0:0:
+#EXTINF:-1,TBS
+http://iptvprivado.sytes.net:8001/1:0:1:18:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,TCM
+http://iptvprivado.sytes.net:8001/1:0:1:1BD:6:A2:BCC0000:0:0:0:
+#EXTINF:-1,TDN
+http://iptvprivado.sytes.net:8001/1:0:1:10:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,Teleantillas
+http://iptvprivado.sytes.net:8001/1:0:1:6F:B:A2:BCC0000:0:0:0:
+#EXTINF:-1,Teleformula
+http://iptvprivado.sytes.net:8001/1:0:1:1C6:7:A2:BCC0000:0:0:0:
+#EXTINF:-1,Telemundo
+http://iptvprivado.sytes.net:8001/1:0:1:42:9:A2:BCC0000:0:0:0:
+#EXTINF:-1,Telesistema
+http://iptvprivado.sytes.net:8001/1:0:1:6C:B:A2:BCC0000:0:0:0:
+#EXTINF:-1,Teletica
+http://iptvprivado.sytes.net:8001/1:0:1:43:9:A2:BCC0000:0:0:0:
+#EXTINF:-1,Teveunam
+http://iptvprivado.sytes.net:8001/1:0:1:1BA:8:A2:BCC0000:0:0:0:
+#EXTINF:-1,TLC
+http://iptvprivado.sytes.net:8001/1:0:1:C2C:6:A2:BCC0000:0:0:0:
+#EXTINF:-1,TNT
+http://iptvprivado.sytes.net:8001/1:0:1:40:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,TNT Series
+http://iptvprivado.sytes.net:8001/1:0:1:374:2:A2:BCC0000:0:0:0:
+#EXTINF:-1,TV Abierta
+http://iptvprivado.sytes.net:8001/1:0:1:CEF:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,TV Globo
+http://iptvprivado.sytes.net:8001/1:0:1:326:2:A2:BCC0000:0:0:0:
+#EXTINF:-1,TV5
+http://iptvprivado.sytes.net:8001/1:0:1:D1:C:A2:BCC0000:0:0:0:
+#EXTINF:-1,TVMAX
+http://iptvprivado.sytes.net:8001/1:0:1:D:2:A2:BCC0000:0:0:0:
+#EXTINF:-1,TVMAX
+http://iptvprivado.sytes.net:8001/1:0:1:198C:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,TVN-2
+http://iptvprivado.sytes.net:8001/1:0:1:331:9:A2:BCC0000:0:0:0:
+#EXTINF:-1,TVN-2
+http://iptvprivado.sytes.net:8001/1:0:1:1989:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,UFC NET
+http://iptvprivado.sytes.net:8001/1:0:1:1F7:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,Universal
+http://iptvprivado.sytes.net:8001/1:0:1:1BB:8:A2:BCC0000:0:0:0:
+#EXTINF:-1,Univision TDN
+http://iptvprivado.sytes.net:8001/1:0:1:60:1:A2:BCC0000:0:0:0:
+#EXTINF:-1,Vextremo
+http://iptvprivado.sytes.net:8001/1:0:1:BDE:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,VH1
+http://iptvprivado.sytes.net:8001/1:0:1:1C9:8:A2:BCC0000:0:0:0:
+#EXTINF:-1,VH1 Classic
+http://iptvprivado.sytes.net:8001/1:0:1:1B7:7:A2:BCC0000:0:0:0:
+#EXTINF:-1,VTV 9
+http://iptvprivado.sytes.net:8001/1:0:1:BE0:3:A2:BCC0000:0:0:0:
+#EXTINF:-1,Warner
+http://iptvprivado.sytes.net:8001/1:0:1:2F0:A:A2:BCC0000:0:0:0:
+#EXTINF:-1,WOBI
+http://iptvprivado.sytes.net:8001/1:0:1:1B6:5:A2:BCC0000:0:0:0:
+#EXTINF:-1,ZooMoo
+http://iptvprivado.sytes.net:8001/1:0:1:515:D:A2:BCC0000:0:0:0:
+
 #EXTINF:0,102 Canal de las Estrellas
 #EXTGRP:unsorted
 http://iptvprivado.sytes.net:8001/1:0:1:50:A:A2:FDBC0000:0:0:0:
